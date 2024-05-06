@@ -1,5 +1,5 @@
-/home/xueyl/redis-4.0.6/bin$redis-cli -h 192.168.35.177 -p 6370
-192.168.35.177:6370> info
+/home/app/redis-4.0.6/bin$redis-cli -h 192.168.0.177 -p 6370
+192.168.0.177:6370> info
 # Server
 redis_version:4.0.6
 redis_git_sha1:00000000
@@ -18,8 +18,8 @@ uptime_in_seconds:78580
 uptime_in_days:0
 hz:10
 lru_clock:14679312
-executable:/home/xueyl/redis-4.0.6/bin/redis-server
-config_file:/home/xueyl/redis-4.0.6/bin/./redis_6370.conf
+executable:/home/app/redis-4.0.6/bin/redis-server
+config_file:/home/app/redis-4.0.6/bin/./redis_6370.conf
 
 # Clients
 connected_clients:1
